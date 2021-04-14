@@ -11,11 +11,3 @@ Simulating the COVID-19 pandemic using pygame in python
 ## Requirements  
 Python3.x  
 Pygame
-
-## To-do
-1. Implement various scenarios like:  
-        1. As Usual  
-        2. Reduced Interaction  
-        3. Lock-down  
-        4. Self-Isolation  
-2. Displaying a graph showing the Statistics  
