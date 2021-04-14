@@ -258,8 +258,8 @@ def main():
         plt.plot(xs1, ys1)
         plt.plot(xs2, ys2)
         plt.plot(xs3, ys3)
-        plt.ylabel("Time")
-        plt.xlabel("Number of People")
+        plt.xlabel("Time")
+        plt.ylabel("Number of People")
         plt.legend(["Infected", "Immune", "Dead"])
 
         plt.ylim(0, 400)
