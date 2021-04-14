@@ -1,5 +1,5 @@
 # CovidSimulator   
-![Screenshot 2021-04-12 211706](https://user-images.githubusercontent.com/81752891/114423092-77c98680-9bd4-11eb-97a4-c76db0ba2b4b.png)
+![Screenshot 2021-04-12 211706](https://user-images.githubusercontent.com/81752891/114423092-77c98680-9bd4-11eb-97a4-c76db0ba2b4b.png)   
 Simulating the COVID-19 pandemic using pygame in python  
 
 ## What different colours mean
@@ -9,7 +9,7 @@ Simulating the COVID-19 pandemic using pygame in python
 **Grey** : The person is dead and cannot contribute in spreading the virus.  
 
 ## Gaphs:  
-### No Restrictiona  
+### No Restrictions:  
 ![NoRestrictions](https://user-images.githubusercontent.com/81752891/114670904-1d8a0c00-9d21-11eb-867c-d8146a724ff2.png)
 
 ### Lockdown:
