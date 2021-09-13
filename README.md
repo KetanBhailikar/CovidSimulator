@@ -8,7 +8,7 @@ Simulating the COVID-19 pandemic using pygame in python
 **Blue** : The person has recovered from the disease and is now immune.  
 **Grey** : The person is dead and cannot contribute in spreading the virus.  
 
-## Gaphs:  
+## Statistical Graphs:  
 ### No Restrictions:  
 ![NoRestrictions](https://user-images.githubusercontent.com/81752891/114670904-1d8a0c00-9d21-11eb-867c-d8146a724ff2.png)
 
